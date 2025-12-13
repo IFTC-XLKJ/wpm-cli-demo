@@ -5,4 +5,5 @@
  * @returns {Promise<void>}
  */
 async function main(args) {
+    console.log(args); // print the args
 }
