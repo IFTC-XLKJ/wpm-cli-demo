@@ -1,4 +1,5 @@
 // cli entry file
+// You can use `wpm` in `GlobalThis` Object
 /**
  * @description cli entry function
  * @param {String[]} args
