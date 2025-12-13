@@ -21,3 +21,5 @@ WebIDE Package Manager Command Line Interface Demo
     } // package dependencies
 }
 ```
+# `wpm` Object Document
+https://xlkj-iftc.feishu.cn/wiki/LAfrwf7WiiKd36kzkMLcRXu9nyb?from=from_copylink
