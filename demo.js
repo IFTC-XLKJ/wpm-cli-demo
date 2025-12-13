@@ -1,7 +1,7 @@
 // cli entry file
 /**
  * @description cli entry function
- * @param {string[]} args
+ * @param {String[String]} args
  * @returns {Promise<void>}
  */
 async function main(args) {
