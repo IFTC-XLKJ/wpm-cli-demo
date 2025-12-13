@@ -9,7 +9,13 @@ WebIDE Package Manager Command Line Interface Demo
         "demo": "demo.js" // package command entry
 //      "command name": "command entry"
     }, // package commands
-    "imports": [],
-    "dependencies": {}
+    "imports": [
+        "demo.js" // package imports entry
+//      "import entry"
+    ], // package imports
+    "dependencies": {
+        "demo": "1.0.0" // package dependencies entry
+//      "dependency name": "dependency version"
+    } // package dependencies
 }
 ```
