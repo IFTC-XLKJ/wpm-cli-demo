@@ -1,5 +1,5 @@
 // cli entry file
-// You can use `wpm` in `GlobalThis` Object
+// You can use `wpm` in `GlobalThis` Object(`wpm` Document: https://xlkj-iftc.feishu.cn/wiki/LAfrwf7WiiKd36kzkMLcRXu9nyb?from=from_copylink)
 /**
  * @description cli entry function
  * @param {String[]} args
