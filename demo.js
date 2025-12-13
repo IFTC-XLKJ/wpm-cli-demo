@@ -7,4 +7,5 @@
  */
 async function main(args) {
     console.log(args); // print the args
+    console.log(wpm); // print the wpm object
 }
