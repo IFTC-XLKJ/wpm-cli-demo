@@ -4,21 +4,21 @@ WebIDE Package Manager Command Line Interface Demo
 ## project.json
 ```json
 {
-    "name": "demo", // package name
-    "version": "1.0.0", // package version
-    "description": "demo", // package description
+    "name": "demo", // project name
+    "version": "1.0.0", // project version
+    "description": "demo", // project description
     "commands": {
-        "demo": "demo.js" // package command entry
+        "demo": "demo.js" // project command entry
 //      "command name": "command entry"
-    }, // package commands
+    }, // project commands
     "imports": [
-        "demo.js" // package imports entry
+        "demo.js" // project imports entry
 //      "import entry"
-    ], // package imports
+    ], // project imports
     "dependencies": {
-        "demo": "1.0.0" // package dependencies entry
+        "demo": "1.0.0" // project dependencies entry
 //      "dependency name": "dependency version"
-    } // package dependencies
+    } // project dependencies
 }
 ```
 # `wpm` Object Document
