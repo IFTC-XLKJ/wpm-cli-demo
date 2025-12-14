@@ -10,3 +10,5 @@ async function main(args) {
     console.log(wpm); // print the wpm object
     return 0; // return exit code (0 means success, other values[include not return] mean failure; if return 0, the process will continue, otherwise the process will stop and exit)
 }
+// command example: demo -a b "c d"
+// args example: ["demo", "-a", "b", "c d"]
