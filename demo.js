@@ -3,7 +3,7 @@
 /**
  * @description cli entry function
  * @param {String[]} args
- * @returns {Promise<void>}
+ * @returns {Promise<Number>}
  */
 async function main(args) {
     console.log(args); // print the args
