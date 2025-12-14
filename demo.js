@@ -8,4 +8,5 @@
 async function main(args) {
     console.log(args); // print the args
     console.log(wpm); // print the wpm object
+    return 0; // return exit code (0 means success; other values mean failure)
 }
